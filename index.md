@@ -6,9 +6,9 @@ title: Home
 
 ## Introduction
 
-**Hello My Name Is Alex Nguyen**
-_EGR 314_
-**_Team 306_**
+Hello My Name Is Alex Nguyen
+EGR 314
+Team 306
 
 ## Research Question
 
