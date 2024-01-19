@@ -6,9 +6,9 @@ title: Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+**Hello My Name Is Alex Nguyen**
+_EGR 314_
+**_Team 306_**
 
 ## Research Question
 
